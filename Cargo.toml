@@ -1,5 +1,5 @@
 [package]
-name = "AzorNetSec"
+name = "azor_net_sec"
 version = "0.1.0"
 edition = "2021"
 
